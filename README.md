@@ -136,5 +136,6 @@ Web Development.
 
 ## 📄 License
 - This project is created for educational and development purposes.
-⭐ Thank you for visiting GREHANI!
-If you like the project, don't forget to ⭐ star the repository!
+  
+## ⭐ Thank you for visiting GREHANI!
+- If you like the project, don't forget to ⭐ star the repository!
