@@ -120,21 +120,21 @@ node_modules/
 
 ## ⭐ Support
 If you found GREHANI useful or interesting:
-Give this repository a star!
-Your support motivates me to build more projects. ❤️
-You can also share the project with other developers.
+- Give this repository a star!
+- Your support motivates me to build more projects. ❤️
+- You can also share the project with other     developers.
 
 ## 👩‍💻 Author
 Sonal Thakur
 🎓 B.Tech – Electronics & Communication Engineering
 
 ## 💡 Interested in:
-Artificial Intelligence & Machine Learning
-Web Development
-Data Structures & Algorithms
-Software Development
+- Artificial Intelligence & Machine Learning
+Web Development.
+- Data Structures & Algorithms
+- Software Development
 
 ## 📄 License
-This project is created for educational and development purposes.
+- This project is created for educational and development purposes.
 ⭐ Thank you for visiting GREHANI!
 If you like the project, don't forget to ⭐ star the repository!
