@@ -99,15 +99,15 @@ node_modules/
 
 
 # 🎯 Future Improvements
--🎙️ Voice input and output
--🧠 Conversation memory
--👤 User authentication
--💾 Chat history
--🌙 Dark/light mode
--📱 Improved mobile UI
--📊 Usage analytics
--🌍 Multi-language support
--🤝 Contributing
+-🎙️ Voice input and output.
+-🧠 Conversation memory.
+-👤 User authentication.
+-💾 Chat history.
+-🌙 Dark/light mode.
+-📱 Improved mobile UI.
+-📊 Usage analytics.
+-🌍 Multi-language support.
+-🤝 Contributing.
 
 ## Contributions are welcome!
 - Fork the repository
