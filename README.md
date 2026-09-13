@@ -79,8 +79,9 @@ OpenAI API
 AI Response
   ↓
 GREHANI Chat Interface
+```
 
-🚀 Deployment
+# 🚀 Deployment
 GREHANI is deployed using Render.
 - Frontend
 - Render Static Site
@@ -89,7 +90,7 @@ GREHANI is deployed using Render.
 - API Endpoint
 https://grehani.onrender.com/api/chat
 
-🔐 Security
+# 🔐 Security
 - API keys are stored using environment variables.
 - The .gitignore file prevents sensitive files from being uploaded:
 .env
@@ -97,7 +98,7 @@ backend/.env
 node_modules/
 
 
-🎯 Future Improvements
+# 🎯 Future Improvements
 -🎙️ Voice input and output
 -🧠 Conversation memory
 -👤 User authentication
@@ -108,7 +109,7 @@ node_modules/
 -🌍 Multi-language support
 -🤝 Contributing
 
-Contributions are welcome!
+## Contributions are welcome!
 - Fork the repository
 - Create a new branch
 - Make your changes
@@ -116,23 +117,23 @@ Contributions are welcome!
 - Push the branch
 - Open a Pull Request
 
-⭐ Support
+## ⭐ Support
 If you found GREHANI useful or interesting:
 Give this repository a star!
 Your support motivates me to build more projects. ❤️
 You can also share the project with other developers.
 
-👩‍💻 Author
+## 👩‍💻 Author
 Sonal Thakur
 🎓 B.Tech – Electronics & Communication Engineering
 
-💡 Interested in:
+## 💡 Interested in:
 Artificial Intelligence & Machine Learning
 Web Development
 Data Structures & Algorithms
 Software Development
 
-📄 License
+## 📄 License
 This project is created for educational and development purposes.
 ⭐ Thank you for visiting GREHANI!
 If you like the project, don't forget to ⭐ star the repository!
